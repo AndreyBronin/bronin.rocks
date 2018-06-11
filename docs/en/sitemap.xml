@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bronin.rocks/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bronin.rocks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bronin.rocks/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bronin.rocks/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bronin.rocks/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bronin.rocks/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bronin.rocks/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bronin.rocks/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bronin.rocks/en/tags/"
+                />
+  </url>
+  
+</urlset>
